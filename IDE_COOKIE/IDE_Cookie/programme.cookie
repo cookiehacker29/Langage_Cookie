@@ -1,0 +1,61 @@
+/*
+Langage Cookie
+*/
+
+entier = 0 ;
+booleen = vrai;
+
+cookie "J'aime beaucoup les cookies ! \n" ;
+
+/*
+Table de 10
+*/
+
+e_i = 0;
+
+recette test :
+  entier = 4;
+;
+
+manger test ;
+
+cookie entier ;
+cookie "\n" ;
+
+cookie "tapez une valeur :\n> " ;
+donner entier ;
+
+recette table_mul_10 :
+  (10)x
+    cookie 10*e_i ;
+    cookie "\n";
+    e_i += 1;
+  ;
+;
+
+manger table_mul_10 ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

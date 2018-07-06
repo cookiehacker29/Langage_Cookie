@@ -1,0 +1,8 @@
+/*
+Langage Cookie
+*/
+
+e_i = 5 ;
+
+cookie e_i ;
+
